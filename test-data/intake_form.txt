@@ -1,0 +1,55 @@
+PATIENT INTAKE FORM
+Mercy General Hospital — Department of Internal Medicine
+
+--- PATIENT INFORMATION ---
+Full Name:        Maria Elena Vasquez
+Date of Birth:    07/22/1985
+Age:              40
+Sex:              Female
+SSN:              319-44-8821
+MRN:              GH-20048813
+Insurance ID:     BCBS-IL-774920
+
+--- CONTACT INFORMATION ---
+Address:          2204 N. Kedzie Ave, Apt 3B, Chicago, IL 60647
+Phone (Home):     (773) 555-0341
+Phone (Cell):     (773) 555-9910
+Email:            m.vasquez85@gmail.com
+
+--- EMERGENCY CONTACT ---
+Name:             Carlos Vasquez (Spouse)
+Phone:            (773) 555-0284
+
+--- ATTENDING PHYSICIAN ---
+Dr. Raymond T. Okafor, MD
+NPI: 1234567890
+Phone: (312) 555-7700
+
+--- VISIT INFORMATION ---
+Date of Visit:    04/19/2026
+Chief Complaint:  Persistent fatigue, dizziness, and intermittent palpitations x 2 weeks.
+
+--- MEDICAL HISTORY ---
+- Type 2 Diabetes Mellitus (diagnosed 2018) — managed with Metformin 500mg BID
+- Hypothyroidism — Levothyroxine 50mcg daily
+- Appendectomy (2003)
+- No known drug allergies (NKDA)
+
+--- CURRENT MEDICATIONS ---
+1. Metformin 500mg — twice daily with meals
+2. Levothyroxine 50mcg — once daily, fasting
+3. Vitamin D3 2000 IU — daily
+
+--- INSURANCE ---
+Primary:   Blue Cross Blue Shield of Illinois
+Group No:  GRP-8820011
+Policy No: POL-IL-4492817
+Effective: 01/01/2025
+
+--- NOTES ---
+Patient reports worsening fatigue since returning from a business trip to Miami, FL
+on 04/05/2026. Denies recent illness, chest pain, or shortness of breath.
+TSH and HbA1c drawn at last visit (03/15/2026) were within normal limits.
+Follow-up ordered: CBC, CMP, thyroid panel, 24-hour Holter monitor.
+
+Signature: Maria E. Vasquez           Date: 04/19/2026

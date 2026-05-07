@@ -1,0 +1,102 @@
+MASTER CASE INDEX — ACTIVE MEDICAL-LEGAL MATTERS
+Law Offices of Jirouschek & Associates
+224 S. Michigan Ave, Suite 1100, Chicago, IL 60604
+Managing Partner: Anthony J. Jirouschek, Esq.
+IL Bar No. 6321748  |  Direct: (312) 555-4900  |  a.jirouschek@jirouschek-law.com
+
+Date Generated: 04/22/2026
+Prepared by: Paralegal — Rachel Lin (rlin@jirouschek-law.com)
+Distribution: Internal use only — attorney-client privileged & work product.
+
+
+================================================================================
+MATTER 1 — VASQUEZ, MARIA ELENA
+================================================================================
+File No.:           MATTER-2026-00147
+Client:             Maria Elena Vasquez (plaintiff)
+DOB:                07/22/1985        Age: 40
+SSN:                319-44-8821
+MRN (Mercy Gen):    GH-20048813
+Insurance:          BCBS-IL-774920    Group: GRP-8820011    Policy: POL-IL-4492817
+Address:            2204 N. Kedzie Ave, Apt 3B, Chicago, IL 60647
+Phone:              (773) 555-0341 (home) / (773) 555-9910 (cell)
+Email:              m.vasquez85@gmail.com
+
+Treating provider:  Dr. Raymond T. Okafor, MD  —  NPI 1234567890  —  (312) 555-7700
+Facility:           Mercy General Hospital, Dept of Internal Medicine
+First encounter:    04/19/2026
+Presenting issue:   Persistent fatigue, dizziness, palpitations (x 2 weeks)
+Related records:    patient_intake_form.pdf, lab_results_04192026.pdf
+
+Status:             Pre-litigation. Records collected. Awaiting IME scheduling.
+Demand prepared:    No
+Statute of limits:  08/19/2027 (2 years from incident date 04/19/2026)
+
+
+================================================================================
+MATTER 2 — HARRINGTON v. LAKESHORE PT
+================================================================================
+File No.:           2026-L-004817 (Cook County Circuit Court, Law Division)
+Client:             Thomas J. Harrington (plaintiff)
+Defendant:          Lakeshore Physical Therapy Associates, LLC
+DOB:                02/09/1972
+SSN:                214-77-3308
+MRN (Lakeshore):    LPT-93042
+Insurance:          UHC-IL-20398847 (United Healthcare)
+Date of injury:     10/28/2025
+Location:           4417 W. Belmont Ave, Chicago, IL 60641 (slip-and-fall)
+
+Treating provider:  Dr. Patricia Anne Nguyen, PT, DPT
+                    1840 N. Clark St, Suite 310, Chicago, IL 60614
+                    Direct: (312) 555-0882
+Referring MD:       Dr. Samuel Okeke  —  NPI 9876543210  —  (312) 555-3311
+                    Fax: (312) 555-3312
+                    Northwestern Internal Medicine, 251 E. Huron St, Chicago, IL 60611
+Reporter/CSR:       Angela M. Curtis  —  CSR No. 084-004421
+Deposition date:    04/15/2026
+Deposition loc:     55 W. Monroe St, Suite 1200, Chicago, IL 60603
+
+Status:             Discovery phase. Deposition taken. Awaiting expert report.
+Next deadline:      Rule 213(f) disclosures due 06/02/2026
+
+
+================================================================================
+MATTER 3 — STRICKLAND, ELEANOR J. (MEDICARE CLAIM REVIEW)
+================================================================================
+File No.:           MATTER-2026-00162
+Client:             Eleanor J. Strickland
+DOB:                09/14/1948        Age: 77
+SSN:                601-29-8843
+MRN (St. Anthony):  SAMC-7700341
+Medicare HIC No.:   2HJ9-WQ4-TL81
+Secondary ins.:     AARP Supplemental  —  Policy No. AARP-IL-3309882
+Address:            88 Birchwood Lane, Joliet, IL 60432
+Phone:              (815) 555-0224
+Email:              eleanor.strickland48@yahoo.com
+
+Admitting facility: St. Anthony Medical Center, Dept of Cardiology
+Admitted:           04/14/2026        Discharged: 04/20/2026    LOS: 6 days
+Diagnosis:          NSTEMI, anterior wall (PCI with DES placement)
+Attending:          Dr. Harold B. Sinclair, MD  —  NPI 3344556677
+                    IL Medical License No. IL-036-071188
+Consulting:         Dr. Priya Mehta, MD (Cardiology)  —  (815) 555-0800
+Primary care:       Dr. L. Torres  —  (815) 555-1133
+
+Emergency contact:  Gerald Strickland (son)  —  (815) 555-7741  —  gstrickland@email.com
+
+Status:             Reviewing discharge summary for potential under-treatment claim.
+                    Cardiac rehab referral placement being verified.
+Related records:    discharge_summary.docx, admission_ekg.pdf
+
+
+================================================================================
+CROSS-MATTER NOTES
+================================================================================
+- Both MATTER 1 (Vasquez) and MATTER 3 (Strickland) involve Type 2 Diabetes
+  management as a secondary consideration. No shared providers.
+- MATTER 2 (Harrington) is the only active-litigation file; MATTERS 1 and 3
+  are pre-litigation records reviews.
+- Calendar conflict 04/27/2026: Mehta follow-up (Strickland) overlaps with
+  Harrington expert deposition prep. Reschedule one.
+
+--- END OF INDEX ---
