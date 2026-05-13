@@ -15,7 +15,9 @@ Pick the file matching your operating system from the **[latest release](https:/
 Requires Windows 10/11 64-bit. WebView2 Runtime is preinstalled on Windows 11; on Windows 10 the installer prompts to fetch it.
 
 ### macOS
-> Coming in `v0.1.1`. Both Apple Silicon and Intel DMGs will be published.
+- **`Redact_*_x64.dmg`** — Intel (x86_64). Runs on Apple Silicon via Rosetta 2.
+
+Right-click the DMG → Open → drag Redact to Applications. On first launch, right-click the app → Open to bypass Gatekeeper.
 
 ## First-launch notes
 
@@ -45,4 +47,8 @@ The first launch downloads a ~560 MB PHI detection model into your local cache (
 
 | Version | Windows | macOS | Notes |
 |---|---|---|---|
+| `v0.1.4` | ✓ | ✓ | Highlight round-trip workflow, dark mode, phone number detection fix, yellow bleed fix |
+| `v0.1.3` | ✓ | ✓ | First macOS build; OCR fallback for manual snap on image-derived PDFs |
+| `v0.1.2` | ✓ | — | |
+| `v0.1.1` | ✓ | — | |
 | `v0.1.0` | ✓ | — | First Windows installer |
