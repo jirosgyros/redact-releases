@@ -47,6 +47,7 @@ The first launch downloads a ~560 MB PHI detection model into your local cache (
 
 | Version | Windows | macOS | Notes |
 |---|---|---|---|
+| `v0.2.0` | ✓ | ✓ | Major over-redaction fix (no more flooded common/anatomy words); accept-propagation with undo, page↔panel selection, editable confidence threshold; per-instance reject |
 | `v0.1.4` | ✓ | ✓ | Highlight round-trip workflow, dark mode, phone number detection fix, yellow bleed fix |
 | `v0.1.3` | ✓ | ✓ | First macOS build; OCR fallback for manual snap on image-derived PDFs |
 | `v0.1.2` | ✓ | — | |
