@@ -47,7 +47,7 @@ The first launch downloads a ~560 MB PHI detection model into your local cache (
 
 | Version | Windows | macOS | Notes |
 |---|---|---|---|
-| `v0.3.0` | ✓ | soon | Grouped-by-value review panel (one row per unique detection); reversible accept-all / reject-all that propagate across all pages and open documents; exact canonical value matching. macOS DMGs follow shortly. |
+| `v0.3.0` | ✓ | ✓ | Grouped-by-value review panel (one row per unique detection); reversible accept-all / reject-all that propagate across all pages and open documents; exact canonical value matching. macOS: Apple Silicon DMG available; Intel x64 DMG to follow. |
 | `v0.2.0` | ✓ | ✓ | Major over-redaction fix (no more flooded common/anatomy words); accept-propagation with undo, page↔panel selection, editable confidence threshold; per-instance reject |
 | `v0.1.4` | ✓ | ✓ | Highlight round-trip workflow, dark mode, phone number detection fix, yellow bleed fix |
 | `v0.1.3` | ✓ | ✓ | First macOS build; OCR fallback for manual snap on image-derived PDFs |
